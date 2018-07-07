@@ -1,4 +1,6 @@
-# blog   
+# blog with MVC
+
+## Database
 
 ## Form
 ### RegisterForm  
