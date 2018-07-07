@@ -1,9 +1,12 @@
 # blog   
 
-## RegisterForm  
-## LoginForm  
-## Logout  
-  
-## Articles
-## Post  
+## Form
+### RegisterForm  
+### LoginForm  
+### Logout  
+### Post  
+
+## view
+### Articles
+### Comments
 
